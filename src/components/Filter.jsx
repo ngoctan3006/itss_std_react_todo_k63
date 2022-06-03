@@ -4,11 +4,8 @@
 　・タブで表示する
 　・サポートするステータスは「すべて」「未完了」「完了済み」
 */
-function Filter(  ) {
-  return (
-    <div className="panel-tabs">
-    </div>
-  );
+function Filter() {
+  return <div className="panel-tabs"></div>;
 }
 
-export default Filter
+export default Filter;
